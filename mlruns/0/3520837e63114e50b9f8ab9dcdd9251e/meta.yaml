@@ -2,7 +2,7 @@ artifact_uri: file:///C:/Users/MaryWillcock/Documents/GitHub/MLFlow_Tutorial/mlr
 end_time: 1572381097636
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 name: ''
 run_id: 3520837e63114e50b9f8ab9dcdd9251e
 run_uuid: 3520837e63114e50b9f8ab9dcdd9251e

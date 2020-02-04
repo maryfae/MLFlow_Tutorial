@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MaryWillcock/Documents/GitHub/MLFlow_Tutorial/mlruns/0/cae062f4e1c24335afd78b1771a82291/artifacts
+end_time: 1580848107363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: cae062f4e1c24335afd78b1771a82291
+run_uuid: cae062f4e1c24335afd78b1771a82291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1580848107276
+status: 3
+tags: []
+user_id: MaryWillcock
